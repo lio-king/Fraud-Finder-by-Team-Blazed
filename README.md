@@ -1,4 +1,4 @@
-# Fraud-Finder-by-Team-Blazed
+# Fraud-Finder
 
 Here , we select a problem statement : " Make tool for fraud detection "
 our basic idea is to make it , in three phase , in each phase we have three model those are :
